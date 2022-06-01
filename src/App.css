@@ -24,6 +24,20 @@
   color: white;
 }
 
+.container{
+  width : 600px;
+  display: flexbox;
+  justify-content: center;
+  border: 1px solid rgb(53, 16, 16);
+  margin: 3px;
+  padding: 3px;
+  
+}
+.container1{
+  //grid-row: 1;
+  column-count: 3;
+}
+
 .App-link {
   color: #61dafb;
 }
